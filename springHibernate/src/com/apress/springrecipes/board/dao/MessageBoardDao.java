@@ -9,4 +9,6 @@ public interface MessageBoardDao {
     public void postMessage(Message message);
     public void deleteMessage(int id);
     public Message findMessageById(int messageId);
+
+//code commit by chanda
 }
