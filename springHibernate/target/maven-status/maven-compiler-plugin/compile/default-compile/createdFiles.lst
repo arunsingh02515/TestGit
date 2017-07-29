@@ -1,0 +1,14 @@
+com\apress\springrecipes\board\dao\MessageBoardDaoImp.class
+com\apress\springrecipes\board\service\MailServiceImpl.class
+com\apress\springrecipes\board\domain\Message.class
+com\apress\springrecipes\board\dao\MessageBoardDao.class
+com\apress\springrecipes\board\web\MessageDeleteController.class
+com\apress\springrecipes\board\service\MessageBoardService.class
+com\apress\springrecipes\board\service\MessageBoardServiceImpl.class
+com\apress\springrecipes\board\service\MailService.class
+com\apress\springrecipes\board\domain\EmpRegistrationForm.class
+com\apress\springrecipes\board\web\MessagePostController.class
+com\apress\springrecipes\board\domain\LeaveApplyForm.class
+com\apress\springrecipes\board\web\MessageListController.class
+com\apress\springrecipes\board\web\MailController.class
+com\apress\springrecipes\board\web\LoginController.class
